@@ -1,0 +1,6 @@
+{
+  "name": "Land Project Hisab - Hill's Pride",
+  "description": "Comprehensive Land and Real Estate Project Management & Accounting (হিসাব) System with Dashboard, Plots/Shares, Investor Ledger, Collections, Expenses, and Digital Receipts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
